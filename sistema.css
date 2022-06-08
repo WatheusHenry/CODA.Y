@@ -1,0 +1,86 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #E5E5E5;
+}
+#login a{
+    text-decoration: none;
+    color: inherit;
+}
+.textoMain1{
+    display: flex;
+}
+.paragrafoMain1{
+    display: flex;
+}
+.pcmockup{
+    display: flex;
+    width: 50rem;
+}
+
+body h1{
+    color: #707070;
+    text-align: center;
+}
+.fonte {
+    font-size: 150%;
+    margin-top: 2%;
+    text-align: center;
+    color: #0194FF
+}
+.img{
+    display: flex;
+    width: 15%;
+    height: 15%;
+    margin-left: 43%;
+}
+.pg {
+    text-align: center;
+    color:#707070;
+}
+.meio{
+    margin-left: 48%;
+    margin-top: 3%;
+    border: 2px solid #ffffff;
+    text-align: center;
+    width: 5%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: none;
+    color:#707070;
+
+}
+.botao {
+    display: inline;
+    margin-left: 47%;
+    border-radius: 10px;
+    width:7%;
+    height: 35px;
+    background-color: #0194FF;
+    border: none;
+    border-color: #0194FF;
+    color: #ffffff;
+    font-size: 90%;
+    margin-top: 2%;
+}
+.botoes {
+    display: flex;
+    margin-left: 48%;
+    margin-top: 1%;
+}
+footer{
+    text-align: center;
+}
+footer p {
+    margin-top: 1%;
+    color: #0194FF;
+    font-size: 20px;
+}
+
+#cor {
+    color:#707070;
+}
+.rede {
+    width: 40px;
+    height: 40px;
+}

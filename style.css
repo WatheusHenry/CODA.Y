@@ -1,0 +1,126 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+#resultado,#botao,#button{
+    width: 30px;
+}
+    
+
+#login a{
+    text-decoration: none;
+    color: inherit;
+}
+.itensLista{
+    list-style: none;
+    text-align: center;
+}
+.carrinho{
+    margin-bottom:70px ;
+    margin-top: 70px;
+}
+.carrinho .carrinhotxt{
+    font-size: 60px;
+    color:#707070 ;
+}
+.main li{
+    
+    border-radius: 20px;
+    margin: 10px;
+    width: 400px;
+}
+.uiUx{
+    background-color: #E7E7E7;
+
+}
+.suporte{
+    background-color: #E7E7E7;
+}
+.desenvolvimento{
+    margin-left: -20px;
+    background-color: #E7E7E7;
+
+}
+li h2{
+    padding-top: 30px;
+    color: #707070;
+}
+li .desenvolvimentoIMG{
+    padding-top: 60px;
+}
+.total .totalTxt{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    font-size: 60px;
+    color:#707070 ;
+}
+
+.notaFiscal{
+    background-color: #E7E7E7;
+    margin-inline: 600px;
+    border-radius: 30px 30px 0 0;
+    height: 300px;
+}
+.infoNota{
+    color: #707070;
+    padding-top: 50px;
+    list-style: none;
+    font-size: 45px;
+}
+.precos .rs{
+    list-style: none;
+
+}
+.tresBotoes{
+    margin-left: 340px;
+}
+.botoes{
+    padding-inline: 140px;
+}
+.precos{
+    color:#0194FF ;
+    margin-right: 1px;
+    padding-top: 60px;
+    font-size: 45px;
+}
+.totalPreco{
+ background-color: #E7E7E7;
+ margin-inline: 600px;
+ border-radius: 0 0 30px 30px;
+ height: 150px;
+}
+.totalPreco .total{
+    color: #0194FF;
+    padding-top: 50px;
+    font-size: 50px;
+}
+.confirmacao .confirmacaoTxt{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    font-size: 60px;
+    color:#707070 ;
+}
+.infoDados{
+    background-color: #E7E7E7;
+    border-radius: 30px;
+    height: 500px;
+}
+.infoItens{
+    font-size: 50px;
+    color: #0194FF;
+}
+.item{
+    font-size: 30px;
+    color: #707070;
+}
+.botaoConfirmacao{
+    margin-top: -40px;
+    margin-bottom: 100px;
+}
+.logoFooter{
+    padding-top: 30px;
+    padding-bottom: 10PX;
+}
+.txtFooter h4{
+    font-size: 16px;
+}
+    

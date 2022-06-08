@@ -1,0 +1,84 @@
+body {
+    font-family: 'Nunito', sans-serif;
+  
+}
+#login a{
+    text-decoration: none;
+    color: inherit;
+}
+.textoMain1{
+    display: flex;
+}
+.paragrafoMain1{
+    display: flex;
+}
+.pcmockup{
+    display: flex;
+    width: 50rem;
+}
+#principal {
+    color: black;
+    font-size: 50px;
+    margin-top: 7%;
+    margin-left: 16%;
+}
+#linha{
+    margin-top: 3%;
+    margin-left: 16%;
+    color: #707070;
+    font-size: 24px;
+}
+.botao{
+    display: inline;
+    margin-left: 16%;
+    margin-top: 2%;
+    border-radius: 10px;
+    width:7%;
+    height: 39px;
+    background-color: #0194FF;
+    border: none;
+    border-color: #0194FF;
+    color: #ffffff;
+    font-size: 90%;
+  }
+#pc {
+    display: flex;
+    margin-top:-25%;
+    margin-left: 35%;
+}
+.linha2 {
+    color: #0194FF;
+    margin-left: 16%;
+    font-size: 24px;   
+}
+.meio {
+    color: #707070;
+    margin-left: 16%;
+    font-size: 22px;   
+}
+#linha3 {
+    margin-top: 4%;
+    color: #0194FF;
+    margin-left: 83%;
+    font-size: 24px;   
+}
+#meio2 {
+    color: #707070;
+    margin-left: 75%;
+    font-size: 22px;   
+}
+footer{
+    text-align: center;
+}
+footer p {
+    margin-top: 1%;
+    color: #0194FF;
+    font-size: 20px;
+}
+footer img{
+    width: 40px;
+    height: 40px;
+}
+#cor {
+    color:#707070;
+}

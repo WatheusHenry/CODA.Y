@@ -1,0 +1,149 @@
+body { 
+    background-color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;
+}
+#login a{
+    text-decoration: none;
+    color: inherit;
+}
+body h1 {
+    text-align: center;
+    color: #707070;
+    font-size: 250%;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
+.textoMain1{
+    display: flex;
+}
+.paragrafoMain1{
+    display: flex;
+}
+.pcmockup{
+    display: flex;
+    width: 50rem;
+}
+
+.contato {
+    display: inline;
+    text-align: center;  
+}
+li {
+    list-style: none;
+}
+.item{
+    font-family: 'Nunito', sans-serif;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagem { 
+    width: 40px;
+    height: 40px;
+}
+
+.fonte { 
+    font-size: 20px;
+    color: #707070;
+    width: 20vw;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5%;
+    color: #707070;
+    font-size: 250%;
+    font-weight: 600;
+}
+main {
+    border-radius: 20px;
+    border: 2px solid #E7E7E7;
+    background-color: #E7E7E7;
+    width: 200px;
+    height: 700px;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-top: 60px;
+ 
+
+}
+.a{
+    border-radius: 20px;
+    border: 2px solid #F4F4F4;
+    background-color: #F4F4F4;
+    width: 200px;
+    height: 400px;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-top: 60px;
+}
+form img {
+    text-align: center;
+}
+form label {
+    display: block;
+    margin: 0 0 10px;
+   text-align: center;
+}
+
+form textarea {
+    border-style: none;
+    border-radius: 15px;
+}
+form input {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+    border-radius: 10px;
+    border-style: none;
+
+}
+#nome {
+    margin-left: 20%;
+    margin-top: 2%;
+}
+#email {
+    margin-left: 20%;
+    margin-top: 2%;
+}
+#telefone {
+    margin-left: 20%;
+    margin-top: 2%;
+}
+#mensagm {
+    margin-left: 20%;
+    margin-top: 2%;
+}
+#tamanho {
+    margin-left: 40%;
+    margin-top: 2%;
+    background-color: #0194FF;
+    border-color: #0194FF;
+    width: 20%;
+    height: 80%;
+    color: #F4F4F4;
+    font-size: 20px;
+}
+footer hr {
+    margin-top: 2%;
+}
+footer{
+    text-align: center;
+}
+footer p {
+    margin-top: 1%;
+    color: #0194FF;
+    font-size: 20px;
+}
+footer img{
+    width: 40px;
+    height: 40px;
+}
+#cor {
+    color:#707070;
+}

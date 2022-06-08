@@ -1,0 +1,141 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #E5E5E5;
+    color: #707070;
+}
+#login a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.textoMain1{
+    display: flex;
+}
+.paragrafoMain1{
+    display: flex;
+}
+.pcmockup{
+    display: flex;
+    width: 50rem;
+}
+
+main h1 {
+    margin-top: 4%;
+    color: #707070;
+    text-align: center;
+}
+
+main p {
+    margin-top: 3%;
+    color: #707070;
+    text-align: center;
+}
+#foto {
+    display: flex;
+    margin-top: 3%;
+    margin-left:-40%;
+    height: 230px;
+    width: 220px;
+    border-radius: 50%;
+}
+#borda {
+    color: #707070;
+    border: 2px solid #E7E7E7;
+    background-color: #E7E7E7;
+    width: 700px;
+    height: 250px;
+    border-radius: 15px;
+    margin-top: 7%;
+    margin-left: 20%;
+}   
+#ajuste {
+    font-size: 30px;
+    text-align: center;
+    margin-top:-35%;
+    margin-right: 55%;
+}
+
+#centro{
+    margin-left: 3%;
+    margin-top: 3%;
+    text-align: center;
+    margin-right: 40%;
+}
+.borda2 {
+    color: #707070;
+    border: 2px solid #E7E7E7;
+    background-color: #E7E7E7;
+    width: 700px;
+    height: 250px;
+    border-radius: 15px;
+    margin-top: 7%;
+    margin-left: 20%;
+}   
+.foto2{
+    display: flex;
+    margin-top: 3%;
+    margin-left:110%;
+    height: 230px;
+    width: 220px;
+    border-radius: 50%;
+}
+
+.ajuste2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top:-36%;
+    margin-right: 55%;
+}
+
+.centro2 {
+    margin-left: 3%;
+    margin-top: 3%;
+    text-align: center;
+    margin-right: 40%;
+}
+#foto3 {
+    display: flex;
+    margin-top: 3%;
+    margin-left:-40%;
+    height: 230px;
+    width: 220px;
+    border-radius: 50%;
+}
+#borda3 {
+    color: #707070;
+    border: 2px solid #E7E7E7;
+    background-color: #E7E7E7;
+    width: 700px;
+    height: 250px;
+    border-radius: 15px;
+    margin-top: 7%;
+    margin-left: 20%;
+}   
+#ajuste3 {
+    font-size: 30px;
+    text-align: center;
+    margin-top:-35%;
+    margin-right: 55%;
+}
+
+#centro3 {
+    margin-left: 3%;
+    margin-top: 3%;
+    text-align: center;
+    margin-right: 40%;
+}
+footer{
+    text-align: center;
+}
+footer p {
+    margin-top: 1%;
+    color: #0194FF;
+    font-size: 20px;
+}
+footer img{
+    width: 40px;
+    height: 40px;
+}
+#cor {
+    color:#707070;
+}
